@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SD CW w1830126">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/w1830126_classses.zip!/" />
+      <root url="jar://$PROJECT_DIR$/w1830126_Javafx.zip!/" />
+      <root url="jar://$PROJECT_DIR$/w1830126_arrays.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

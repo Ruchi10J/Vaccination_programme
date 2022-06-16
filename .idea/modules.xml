@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays task1/Arrays task1.iml" filepath="$PROJECT_DIR$/Arrays task1/Arrays task1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes task 2/Classes task 2.iml" filepath="$PROJECT_DIR$/Classes task 2/Classes task 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classes task 3/Classes task 3.iml" filepath="$PROJECT_DIR$/Classes task 3/Classes task 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javafx CW/Javafx CW.iml" filepath="$PROJECT_DIR$/Javafx CW/Javafx CW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SD CW w1830126.iml" filepath="$PROJECT_DIR$/.idea/SD CW w1830126.iml" />
+    </modules>
+  </component>
+</project>
